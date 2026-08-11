@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Nicolas, tenho 21 anos e sou de São Paulo. Atualmente cursando Análise e Desenvolvimento de Sistemas, estou migrando da área financeira para o mundo da programação. Gosto de resolver problemas lógicos e otimizar rotinas.
+Me chamo Nicolas, tenho 21 anos e sou de São Paulo. Atualmente cursando Análise e Desenvolvimento de Sistemas. Gosto de resolver problemas lógicos e otimizar rotinas.
 
 ✨ Curiosidade: Fui o vencedor do projeto final no Samsung Innovation Campus desenvolvendo lógica estruturada.
 
