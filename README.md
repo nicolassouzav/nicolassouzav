@@ -4,7 +4,7 @@
 
 Me chamo Nicolas, tenho 21 anos e sou de São Paulo. Atualmente cursando Análise e Desenvolvimento de Sistemas. Gosto de resolver problemas lógicos e otimizar rotinas.
 
-✨ Curiosidade: Fui o vencedor do projeto final no Samsung Innovation Campus desenvolvendo lógica estruturada.
+- 🏆 **Curiosidade:** Venci o projeto final do *Samsung Innovation Campus*[cite: 34], criando um cofre com tranca eletrónica através de programação estruturada em C e Arduino.
 
 ---
 
